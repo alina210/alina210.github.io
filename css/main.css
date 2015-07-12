@@ -1,6 +1,21 @@
 body {
-	background-color: #7B68EE;
+	text-align: center;
+	background-color: green;
 }
-h1, p {
-	color: #000000;
+h1 {
+	font-family: Arial, sans-serif;
+	font-size: 40px;
+	font-weight: bold;
+}
+p, ul {
+	font-family: "Courier New", monospace;
+	color: white;
+}
+#slogan {
+	font-style: italic;
+	color: blue;
+	background-color: yellow;
+}
+#important {
+	font-size: 24px;
 }
